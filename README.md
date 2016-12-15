@@ -1,2 +1,2 @@
 # JSTweaker
-A minecraft mod allows developer writingmods in javascript.
+A minecraft mod allows developer writing mods in javascript.
